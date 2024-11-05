@@ -1,3 +1,3 @@
 hi, Im Harshit 🔮
-Pre-final Year at VIT 🎓
+Final Year at VIT 🎓
 + MERN Stack Developer
